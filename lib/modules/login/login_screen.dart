@@ -40,7 +40,7 @@ class LoginScreen extends StatelessWidget {
                         if(value == null || value.trim().length == 0){
                           return 'email is not find';
                         }
-                        return 'ayham';
+                        return null;
                     }
                   ),
                   SizedBox(
