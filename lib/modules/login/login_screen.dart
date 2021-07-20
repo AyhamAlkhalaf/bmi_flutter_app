@@ -22,7 +22,7 @@ class LoginScreen extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text(
-                    'Login aa',
+                    'Login',
                     style: TextStyle(
                       fontSize: 40.0,
                       fontWeight: FontWeight.bold,
