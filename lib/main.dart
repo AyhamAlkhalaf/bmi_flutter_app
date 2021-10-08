@@ -1,3 +1,4 @@
+import 'package:bmi_flutter_app/layout/home%20layout.dart';
 import 'package:bmi_flutter_app/modules/bmi-result/bmi_result_screen.dart';
 import 'package:bmi_flutter_app/modules/bmi/bmi_screen.dart';
 import 'package:bmi_flutter_app/modules/counter/counter_screen.dart';
@@ -18,7 +19,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: LoginScreen(),
+      home: MessengerScreen(),
     );
   }
 }
